@@ -1,0 +1,1 @@
+Even if you’re the kind of person who tells you new dinner new acquaintances at dinner parties that you hate e-mail and e-books, you probably recognize the words above as being some kind of computer code. You may even be able to work out, more or less, what this little “Program” does: it writes to the console of some system the line “Hello, world!”
